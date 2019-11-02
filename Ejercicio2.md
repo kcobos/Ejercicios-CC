@@ -1,0 +1,5 @@
+# En la aplicación que se ha usado como ejemplo en el ejercicio anterior, ¿podría usar diferentes lenguajes? ¿Qué almacenes de datos serían los más convenientes?
+
+Como ya se ha hablado en el [Ejercicio 1](Ejercicio1.md), la arquitectura del servidor del sistema en una arquitectura por capas por lo que obliga a usar un mismo lenguaje de programación y determinada base de datos, así como herramientas adicionales. Como se puede ver, este tipo de arquitectura es muy restrictiva.
+
+Si pasásemos el mismo sistema a una arquitectura basada en microservicios estaríamos dando libertad al sistema debido a que podríamos emplear distintos lenguajes de programación en los distintos servicios. A su vez, podríamos emplear distintos sistemas de bases de datos según sea más conveniente para almacenar las entidades controladas por los microservicios.
