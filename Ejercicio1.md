@@ -1,6 +1,6 @@
 # Buscar una aplicación de ejemplo, preferiblemente propia, y deducir qué patrón es el que usa. ¿Qué habría que hacer para evolucionar a un patrón tipo microservicios?
 
-La aplicación buscada ha sido mi TFG (SIGA) que está por liberar donde diseñé una arquitectura en capas tal y como se puede ver en la siguiente figura.
+La aplicación buscada ha sido mi TFG (SIGA) que está por liberar donde diseñé una arquitectura cliente-servidor donde el servidor está diseñado en capas tal y como se puede ver en la siguiente figura.
 
 ![Esquema SIGA](img/esquema_siga.jpg)
 
