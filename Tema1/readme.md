@@ -1,1 +1,0 @@
-Ejercicios del [tema 1](http://jj.github.io/CC/documentos/temas/Arquitecturas_para_la_nube)
