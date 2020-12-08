@@ -40,7 +40,7 @@ Según la [documentación oficial de docker para los *dockerfiles*](https://docs
 
 ![Capas golang:alpine](golang_alpine_layers.png)
 
-Para corroborar que la primera capa es la de *alpine:3.12*, nos podemos bajar dicha imagen y ver sus capas. La última capa de esta tiene que coincidir con la primera capa de *golang:alpine*.
+Para corroborar que la primera capa es la de *alpine:3.12*, nos podemos bajar dicha imagen y ver sus capas. Esta imagen solo tiene que tener una capa nada más que corresponderá a la primera capa de la imagen de *golang:alpine*.
 
 ![Capas alpine:3.12](alpine3.12_layers.png)
 
